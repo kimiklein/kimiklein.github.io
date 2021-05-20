@@ -17,7 +17,12 @@ Main Interests
 ------
 My main research goal is to build an algorithmic theory based on structured integer programs.
  - Integer Programming
+ - Combinatorial Optimization
  - Approximation Algorithms
  - Paramterized Complexity
  - Bin Packing/Scheduling Problems
  - Fine-Grained Complexity
+
+Contact
+------
+E-Mail:     kmk (at) informatik (dot) uni-kiel (dot) de
