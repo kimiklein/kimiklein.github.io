@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
 ======
 * PostDoc at Kiel University, working on own DFG Project: "Approximative Methods in Integer Programming", since 2020
 * PostDoc at Kiel University in the group of Thomas Wilke, 2019
