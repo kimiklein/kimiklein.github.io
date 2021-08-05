@@ -14,6 +14,7 @@ Selected Publications
 - [Faster Algorithms for Integer Programs with Block Structure](https://arxiv.org/abs/1802.06289); Eisenbrand, Hunkenschröder, Klein
 - [About the Structure of the Integer Cone and its Application to Bin Packing](https://arxiv.org/abs/1604.07286); Jansen, Klein
 - [Closing the Gap for Makespan Scheduling via Sparsification Techniques](https://arxiv.org/abs/1604.07153); Jansen, Klein, Verschae
+- [Fully Dynamic Bin Packing Revisited](https://arxiv.org/abs/1411.0960); Berndt, Jansen, Klein
 
 <!-- a normal html comment {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
