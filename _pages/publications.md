@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a list of my publications [here] (https://kimiklein.github.io/list_publications.pdf).
+You can find a list of my publications [here](https://kimiklein.github.io/list_publications.pdf).
 
 Selected Publications
 ---
