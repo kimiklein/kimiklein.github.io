@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a list of my publications here(https://kimiklein.github.io/list_publication).
+You can find a list of my publications here(https://kimiklein.github.io/list_publications.pdf).
+
+Selected Publications
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
