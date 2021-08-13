@@ -9,6 +9,7 @@ You can find a complete list of my publications [here](https://kimiklein.github.
 
 Selected Publications
 ---
+- [On the Fine-Grained Complexity of the Unbounded SubsetSum and the Frobenius Problem](http://arxiv.org/abs/2108.05581) - Klein
 - [About the Complexity of Two-Stage Stochastic IPs](https://arxiv.org/abs/1901.01135) - Klein
 - [An Algorithmic Theory of Integer Programming](https://arxiv.org/abs/1904.01361) - Eisenbrand, Hunkenschröder, Klein, Koutecký, Levin, Onn
 - [Faster Algorithms for Integer Programs with Block Structure](https://arxiv.org/abs/1802.06289) - Eisenbrand, Hunkenschröder, Klein
