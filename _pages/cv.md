@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-* Visiting professor at University of Bremen, 2022
-* PostDoc at Kiel University, working on own DFG Project: "Approximative Methods in Integer Programming", since 2020
+* Visiting professor at University of Bremen, since 2022
+* PostDoc at Kiel University, working on own DFG Project: "Approximative Methods in Integer Programming", 2020
 * PostDoc at Kiel University in the group of Thomas Wilke, 2019
 * PostDoc at EPFL Lausanne in the group of Friedrich Eisenbrand, 2018
 * Ph.D. at Kiel University, 2017
