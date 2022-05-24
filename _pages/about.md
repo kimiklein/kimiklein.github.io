@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I work as a postdoctoral researcher in algorithm theory and discrete optimization at Kiel University. Currently I work on my own [DFG project](https://gepris.dfg.de/gepris/person/442077393?context=person&task=showDetail&id=442077393&) on the topic "Approximation Methods in Integer Programming". Before that I was a PostDoc at EPFL in the group of Friedrich Eisenbrand. I received my PhD at Kiel University where I was adviced by Klaus Jansen.
+I am a visiting professor at the University of Bremen, doing research in the area of algorithm theory and discrete optimization. Also, I work on my [DFG project](https://gepris.dfg.de/gepris/person/442077393?context=person&task=showDetail&id=442077393&) on the topic "Approximation Methods in Integer Programming". Before that I was a PostDoc at EPFL in the group of Friedrich Eisenbrand. I received my PhD at Kiel University where I was adviced by Klaus Jansen.
 
 Main Interests
 ------
