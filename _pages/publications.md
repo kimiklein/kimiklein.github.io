@@ -9,6 +9,7 @@ You can find a complete list of my publications [here](https://kimiklein.github.
 
 Selected Publications
 ---
+- [On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and TrianglarStructured ILPs](https://www.siam.org/conferences/cm/program/accepted-papers/soda23-accepted-papers) - Klein, Polak, Rohwedder (NEW)
 - [On the Fine-Grained Complexity of the Unbounded SubsetSum and the Frobenius Problem](http://arxiv.org/abs/2108.05581) - Klein (NEW)
 - [About the Complexity of Two-Stage Stochastic IPs](https://arxiv.org/abs/1901.01135) - Klein
 - [An Algorithmic Theory of Integer Programming](https://arxiv.org/abs/1904.01361) - Eisenbrand, Hunkenschröder, Klein, Koutecký, Levin, Onn
