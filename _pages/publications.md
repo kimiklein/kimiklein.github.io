@@ -9,7 +9,8 @@ You can find a complete list of my publications [here](https://kimiklein.github.
 
 Selected Publications
 ---
-- [On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and TrianglarStructured ILPs](http://arxiv.org/abs/2211.05053) - Klein, Polak, Rohwedder (NEW)
+- [Simple Lattice Basis Computation -- The Generalization of the Euclidean Algorithm](https://arxiv.org/abs/2311.15902) - Klein, Reuter
+- [On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and TrianglarStructured ILPs](http://arxiv.org/abs/2211.05053) - Klein, Polak, Rohwedder
 - [On the Fine-Grained Complexity of the Unbounded SubsetSum and the Frobenius Problem](http://arxiv.org/abs/2108.05581) - Klein
 - [About the Complexity of Two-Stage Stochastic IPs](https://arxiv.org/abs/1901.01135) - Klein
 - [An Algorithmic Theory of Integer Programming](https://arxiv.org/abs/1904.01361) - Eisenbrand, Hunkenschröder, Klein, Koutecký, Levin, Onn
