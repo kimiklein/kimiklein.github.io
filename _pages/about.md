@@ -23,4 +23,4 @@ My main research goal is to build an algorithmic theory based on structured inte
 
 Contact
 ------
-**E-Mail:**         kmk (at) informatik (dot) uni-kiel (dot) de
+**E-Mail:**         kimmanuel.klein (at) uni-luebeck (dot) de
