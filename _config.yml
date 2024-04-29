@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Kim-Manuel Klein"
+title                    : "Prof. Dr. Kim-Manuel Klein"
 title_separator          : "-"
-name                     : &name "Dr. Kim-Manuel Klein"
+name                     : &name "Prof. Dr. Kim-Manuel Klein"
 description              : &description "personal description"
 url                      : https://kimiklein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kim-Manuel Klein"
   avatar           : "profile_pic.jpeg"
-  bio              : "Visiting Professor in Theoretical Computer Science at University of Bremen"
-  location         : "University of Bremen"
+  bio              : "Professor in Theoretical Computer Science at University of Lübeck"
+  location         : "Universität zu Lübeck"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=Ey7Sx5UAAAAJ&hl=de"
