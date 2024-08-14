@@ -9,7 +9,7 @@ You can find a complete list of my publications [here](https://kimiklein.github.
 
 Selected Publications
 ---
-- [Simple Lattice Basis Computation -- The Generalization of the Euclidean Algorithm](https://arxiv.org/abs/2311.15902) - Klein, Reuter
+- [Faster Lattice Basis Computation -- The Generalization of the Euclidean Algorithm (updated)](https://arxiv.org/abs/2408.06685) - Klein, Reuter (NEW)
 - [On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and TrianglarStructured ILPs](http://arxiv.org/abs/2211.05053) - Klein, Polak, Rohwedder
 - [On the Fine-Grained Complexity of the Unbounded SubsetSum and the Frobenius Problem](http://arxiv.org/abs/2108.05581) - Klein
 - [About the Complexity of Two-Stage Stochastic IPs](https://arxiv.org/abs/1901.01135) - Klein
